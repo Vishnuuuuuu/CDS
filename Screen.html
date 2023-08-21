@@ -37,7 +37,7 @@
   <video id="localVideo" autoplay muted></video>
   <video id="remoteVideo" autoplay></video>
   
-  <script src="screen.js"></script>
+  <script src="script.js"></script>
 
 </body>
 </html>
